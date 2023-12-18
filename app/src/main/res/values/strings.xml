@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My View And View Group</string>
+    <string name="content_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer mattis cursus urna, id hendrerit ante sodales sit amet. Nulla facilisi. Sed vel vehicula augue.</string>
+    <string name="content_specs_display">
+        Idol
+        \nMusic
+        \nAnime
+    </string>
+    <string name="content_specs_size">3.14 x r x r x t or 22/7 x r x r x t</string>
+    <string name="content_specs_battery">
+        Synonyms: Nanabun no Nijyuuni, Nanabun no Nijuuni
+        \nJapanese: 22/7
+        \nType: TV
+        \nEpisodes: 12
+        \nAired: Jan 11, 2020 to Mar 28, 2020
+        \nPremiered: Winter 2020
+        \nStudios: A-1 Pictures
+    </string>
+    <string name="title">22/7</string>
+    <string name="specification">Information</string>
+    <string name="display">Genre</string>
+    <string name="size">Rumus Volume Tabung</string>
+    <string name="battery">Detail</string>
+    <string name="seller">Studio</string>
+    <string name="my_name">A-1 Pictures</string>
+    <string name="buy">Watch</string>
+    <string name="dummy_value">Episode 1</string>
+    <string name="dummy_photos">1 photos</string>
+</resources>
